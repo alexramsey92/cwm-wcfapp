@@ -10,6 +10,7 @@ namespace asp_webapp.Controllers
 {
     public class HomeController : Controller
     {
+        /* From Example app
         public IActionResult Index()
         {
             return View();
@@ -30,6 +31,12 @@ namespace asp_webapp.Controllers
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        */
+
+        public IActionResult Messenger()
         {
             return View();
         }

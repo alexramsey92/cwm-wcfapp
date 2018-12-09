@@ -74,4 +74,4 @@ _[Ss]cripts
 *.ncrunchsolution
 *.dot[Cc]over
 # More crap #
-asp-webapp/.vs/asp-webapp/v15/Server/sqlite3/db.lock
+asp-webapp/.vs/asp-webapp/v15/Server/
