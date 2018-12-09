@@ -75,3 +75,4 @@ _[Ss]cripts
 *.dot[Cc]over
 # More crap #
 asp-webapp/.vs/asp-webapp/v15/Server/
+asp-webapp/.vs/
