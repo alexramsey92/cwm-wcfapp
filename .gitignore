@@ -1,4 +1,4 @@
-###################
+﻿###################
 # compiled source #
 ###################
 *.com
@@ -74,5 +74,4 @@ _[Ss]cripts
 *.ncrunchsolution
 *.dot[Cc]over
 # More crap #
-asp-webapp/.vs/asp-webapp/v15/Server/
-asp-webapp/.vs/
+/asp-webapp/.vs/
